@@ -3,3 +3,6 @@
 
 ## 注意
 実行にはOpenCVが必要です。事前に`pip install opencv-python`でインストールしてください。
+
+## 参考資料
+- https://camp.trainocate.co.jp/magazine/python-opencv/
